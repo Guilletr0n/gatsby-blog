@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/guilletr0n/camilo
+  repo: https://github.com/Guilletr0n/gatsby-blog
 
 media_folder: static/assets
 public_folder: /assets
